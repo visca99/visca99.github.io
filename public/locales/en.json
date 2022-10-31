@@ -1,0 +1,22 @@
+{
+  "common": {
+    "ok": "Ok",
+    "cancel": "Cancel"
+  },
+  "dialogMenu": {
+    "map": "Map",
+    "settings": "Settings",
+    "clues": "Clues",
+    "participants": "Participants"
+  },
+  "pages": {
+    "clues": {
+      "clueButton": "Clue {price} €"
+    },
+    "login": {
+      "username": "Username",
+      "password": "Password",
+      "login": "LOGIN"
+    }
+  }
+}

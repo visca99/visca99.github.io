@@ -1,0 +1,22 @@
+{
+  "common": {
+    "ok": "Ok",
+    "cancel": "Annulla"
+  },
+  "dialogMenu": {
+    "map": "Mappa",
+    "settings": "Impostazioni",
+    "clues": "Indizi",
+    "participants": "Partecipanti"
+  },
+  "pages": {
+    "clues": {
+      "clueButton": "Indizio {price} €"
+    },
+    "login": {
+      "username": "Username",
+      "password": "Password",
+      "login": "LOGIN"
+    }
+  }
+}
