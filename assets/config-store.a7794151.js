@@ -1,0 +1,1 @@
+import{as as r}from"./index.66fd6d4b.js";const t=r("Config",{state:()=>({primaryColor:"#348b49",secondaryColor:"#ffffff"}),getters:{getPrimaryColor:o=>o.primaryColor,getSecondaryColor:o=>o.secondaryColor},actions:{setPrimaryColor(o){this.primaryColor=o},setSecondaryColor(o){this.secondaryColor=o}}});export{t as u};
