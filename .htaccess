@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName 'Area Riservata'
-AuthUserFile ./.htpasswd
-Require valid-user
